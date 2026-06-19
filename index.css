@@ -36,6 +36,7 @@ main{
     border-radius: 20px;
     text-align: center;
     padding: 1rem;
+    text-decoration: ;
 }
 
 .card-description{
@@ -44,7 +45,7 @@ main{
 }
 
 .card-btn{
-    color:red ;
+    color:rgb(146, 31, 31) ;
     border: 2px solid red;
     padding: 1rem;
     width: 50%;
